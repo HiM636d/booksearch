@@ -17,7 +17,8 @@ setBooks,
 import Header from "./Header";
 import LoadMore from "./LoadMore";
 import TotalDisplay from "./TotalDisplay";
-const ApiKey=process.env.REACT_APP_GOOGLE_BOOK_API_KEY
+const ApiKey=process.env.REACT_APP_GOOGLE_BOOKS_API_KEY
+console.log(ApiKey);
 
 
 const BookListing = () => {

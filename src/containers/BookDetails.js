@@ -6,7 +6,7 @@ import { useParams } from "react-router-dom";
 import { selectedBook } from "../redux/actions/bookActions";
 import { useDispatch, useSelector } from "react-redux";
 import FetchDetail from "./FetchDetail";
-const ApiKey=process.env.REACT_APP_GOOGLE_BOOK_API_KEY
+const ApiKey=process.env.REACT_APP_GOOGLE_BOOKS_API_KEY
 
 
 const BookDetails = () => {
