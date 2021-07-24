@@ -1,0 +1,9 @@
+export const ActionTypes = {
+  //defining action types
+  SET_BOOKS: "SET_BOOKS",
+  SELECTED_BOOK: "SELECTED_BOOK",
+  SET_TOTAL: "SET_TOTAL",
+  REMOVE_SPINNER: "REMOVE_SPINNER",
+  ADD_SPINNER: "ADD_SPINNER",
+  LOAD_MORE: "LOAD_MORE",
+};
