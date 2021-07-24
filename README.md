@@ -1,9 +1,10 @@
 About this project:
 
-this is a<strong> react</strong> app that uses<strong> axios </strong>to fetch data from <strong>google books api</strong> and managing the state using <strong> redux</strong>
+this is a<strong> react</strong> app that uses<strong> axios </strong>to fetch data from <strong>google books api</strong> and managing the state using <strong> redux</strong> and <strong> semantic ui </strong> is used for styling
 
 
 specifications: 
+
 
 The app shows an input with a "search" button and two drop down menus,one for specifying caregory and one for specifying ordering of books.
 
